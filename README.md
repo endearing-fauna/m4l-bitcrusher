@@ -1,0 +1,1 @@
+# max4Live bitcrusher audio effect
